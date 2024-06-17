@@ -1,2 +1,3 @@
-# pong_clone
-A pong clone made with c++ and sdl2 libraries
+# Pong Clone
+A pong clone made with C++ and SDL2 libraries
+![alt text](https://imgur.com/a/VboPxxr)
